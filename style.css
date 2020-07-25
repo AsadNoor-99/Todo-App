@@ -1,0 +1,42 @@
+body{
+    margin-top: -300px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+.container{ }
+h3{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 3px;
+    font-size: 35px;
+}
+
+
+
+.list{
+    position: fixed;
+}
+
+
+.btn{
+    background:#000;
+    color: #fff;
+    margin: 5px;
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid #000;
+    outline: none;
+    font-family: 'MuseoModerno', cursive;
+
+}
+.btn:hover{
+    background:#fff;
+    color: #000;
+    margin: 5px;
+}
